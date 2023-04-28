@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# Web Text Editor
 
 ## Description 
 This application is a ext editor that runs in the browser. The is a single-page application that meets the PWA criteria. You can find the link to the deployed site here: https://web-text-editor.netlify.app/
